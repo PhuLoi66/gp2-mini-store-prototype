@@ -154,8 +154,8 @@ Together these connect the online touchpoint to the physical store rather than r
 
 ## Appendix
 
-Shopify store (preview): *\[insert Shopify store or preview URL here\]*
+Shopify store (preview): <https://ywanrn-2f.myshopify.com/password>
 
-GitHub Repository: *\[insert GitHub repo URL here\]*
+GitHub Repository: <https://github.com/PhuLoi66/gp2-mini-store-prototype>
 
-GitHub Pages (Published Report): *\[insert GitHub Pages URL here\]*
+GitHub Pages (Published Report): <https://phuloi66.github.io/gp2-mini-store-prototype/>
